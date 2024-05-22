@@ -1,12 +1,10 @@
-## Hi there 👋, I'm [Your Name]!
+## Hi there 👋, I'm Taylor!
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-github-username)
-
-Welcome to my GitHub profile! I'm a [Your Job Title] with a passion for [Your Interests/Hobbies]. I enjoy working on projects that involve [Relevant Technologies/Fields].
+Welcome to my GitHub profile! I'm a biologist 👨‍🔬 turned software engineer. My journey started during the COVID pandemic when all lab workers were sent home for shelter-in-place. To be productive lab-worker without being in a lab, I started writing Python scripts to process and visualize lab data.
 
 ### 🔭 What I'm Currently Working On
 
-- [Project 1](https://github.com/tkkair813/tk-components): Brief description of what this project is about.
+- [TK-Components][component-library-repo]: React component library using MUI. Check out some of my [favorite reusable components][tk-components-storybook].
 
 ### 🌱 What I'm Learning
 
@@ -22,7 +20,7 @@ Welcome to my GitHub profile! I'm a [Your Job Title] with a passion for [Your In
 
 ### 📫 How to Reach Me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [taeilkim987@gmail.com][mail]
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
 
 ### 🚀 Technologies & Tools
@@ -40,3 +38,7 @@ Welcome to my GitHub profile! I'm a [Your Job Title] with a passion for [Your In
 ### ⚡ Fun Fact
 
 [Share a fun fact about yourself or your interests!]
+
+[component-library-repo]: (https://github.com/tkkair813/tk-components)
+[tk-components-storybook]: https://tkkair813.github.io/tk-components/?path=/docs/introduction--docs
+[mail]: mailto:taeilkim987@gmail.com
