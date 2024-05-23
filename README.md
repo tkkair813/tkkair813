@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a biologist 🧬👨‍🔬 turned software en
 - Email: [taeilkim987@gmail.com][mail]
 - LinkedIn: [Taylor Kim][linkedin]
 
-[component-library-repo]: (https://github.com/tkkair813/tk-components)
+[component-library-repo]: https://github.com/tkkair813/tk-components
 [tk-components-storybook]: https://tkkair813.github.io/tk-components/?path=/docs/introduction--docs
 [mail]: mailto:taeilkim987@gmail.com
 [linkedin]: www.linkedin.com/in/tae-il-kim
