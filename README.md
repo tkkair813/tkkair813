@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm a biologist 🧬👨‍🔬 turned software en
 
 ### 📫 How to Reach Me
 
-- Email: [taeilkim987@gmail.com][mail]
+- Email: [taeilkim987@gmail.com](mailto:taeilkim987@gmail.com)
 - LinkedIn: [Taylor Kim][linkedin]
 
 [component-library-repo]: https://github.com/tkkair813/tk-components
 [tk-components-storybook]: https://tkkair813.github.io/tk-components/?path=/docs/introduction--docs
 [mail]: mailto:taeilkim987@gmail.com
-[linkedin]: www.linkedin.com/in/tae-il-kim
+[linkedin]: https://linkedin.com/in/tae-il-kim
